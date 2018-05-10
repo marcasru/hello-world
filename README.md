@@ -1,4 +1,4 @@
 # hello-world
-Mi primer repositorio
+Explico cosas
 
 Voy a hacer algunos cambios.
